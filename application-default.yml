@@ -8,4 +8,4 @@ lmg:
     token-api-url: https://sbcheckout.payfort.com/FortAPI/paymentPag3e34 
   test:
     config:
-      value: some value
+      value: some value new
