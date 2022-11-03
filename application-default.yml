@@ -5,4 +5,4 @@ broadleaf:
    failure-types-by-code.001: Invalid-request_id 
 lmg:
   amazonpaymentservices:
-    token-api-url: https://sbcheckout.payfort.com/FortAPI/paymentPage2
+    token-api-url: https://sbcheckout.payfort.com/FortAPI/paymentPag33
