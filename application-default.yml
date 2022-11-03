@@ -3,3 +3,6 @@ broadleaf:
     default-currency-code: USD
   amazonpaymentservices:
    failure-types-by-code.001: Invalid-request_id 
+lmg:
+  amazonpaymentservices:
+    token-api-url: https://sbcheckout.payfort.com/FortAPI/paymentPage1
