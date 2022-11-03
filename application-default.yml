@@ -1,3 +1,5 @@
 broadleaf:
   money:
     default-currency-code: USD
+  amazonpaymentservices:
+   failure-types-by-code.001: Invalid-request_id 
